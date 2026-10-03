@@ -10,7 +10,7 @@ class Dog(Animal):
         self.breed = breed
         print(f"Dog.__init__ called on {id(self)}")
 
-rex = Dog("Rex", "Labrador")
+rex = Dog(name="Rex", breed="Labrador")
 # Output:
 # Animal.__init__ called on 140234567890  ← same id!
 # Dog.__init__ called on 140234567890     ← same id!
