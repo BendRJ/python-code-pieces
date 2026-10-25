@@ -22,5 +22,5 @@ Demonstrates the differences between instance methods, class methods (`@classmet
 ### `super_init.py`
 Shows how `super().__init__()` works in inheritance to run parent initialization on the same object, building it up through the inheritance chain.
 
-### `pathlib.py`
+### `pathlib_demo.py`
 Demonstrates use of pathlib library for modifying directories and files on your system.

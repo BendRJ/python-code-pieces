@@ -17,7 +17,7 @@ Path("tmp/output.txt").write_text("Hello World, this is a test.")
 # /tmp is abolsute path, tmp relative to cwd
 
 #read
-content = Path("/tmp/output.txt").read_text()
+content = Path("tmp/output.txt").read_text()
 print(content)
 
 # find
