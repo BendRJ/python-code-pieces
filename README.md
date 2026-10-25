@@ -24,3 +24,6 @@ Shows how `super().__init__()` works in inheritance to run parent initialization
 
 ### `pathlib_demo.py`
 Demonstrates use of pathlib library for modifying directories and files on your system.
+
+### `polars_demo.py`
+a lightning fast DataFrame libarary
